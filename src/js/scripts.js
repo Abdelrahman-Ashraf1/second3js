@@ -32,6 +32,7 @@ scene.background = cubeTextureLoader.load([
   stars,
   stars,
   stars,
+  stars,
 ]);
 function animate(time) {
   // Update the mixer on each frame

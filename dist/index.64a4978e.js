@@ -557,6 +557,7 @@ scene.background = cubeTextureLoader.load([
     (0, _starsJpgDefault.default),
     (0, _starsJpgDefault.default),
     (0, _starsJpgDefault.default),
+    (0, _starsJpgDefault.default),
     (0, _starsJpgDefault.default), 
 ]);
 function animate(time) {
